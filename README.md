@@ -80,8 +80,11 @@ The dataset used in this study comprises detailed records of traffic accidents, 
 ### Tools used
 
 Data cleaning: Microsoft Excel and PowerBI
+
 Data analysis: PowerBI
+
 Visualization: PowerBI
+
 
 ## METHODOLOGY
 
@@ -95,11 +98,14 @@ Data Collection and Cleaning:  The dataset was downloaded from Kaggle.com and th
 
 •	Normalization – Ensuring consistency in data types (e.g., all dates in DD-MM-YYYY format).
 
-Exploratory Data Analysis (EDA): Statistical and graphical techniques are used to explore trends, distributions, and relationships between variables. Frequency distributions help identify common accident causes. Visualization tools like bar charts, line graphs, and histograms are employed to highlight patterns over time, accident hotspots, and high-risk conditions. Correlation analysis is conducted to assess relationships between variables such as weather conditions, road surface states, and accident severity.
+### Exploratory Data Analysis (EDA) 
 
-Pattern and Trend Analysis: Advanced analytical techniques are applied to detect recurring patterns in accident occurrences. Time series analysis is used to observe fluctuations in accident frequency over different periods, helping identify seasonal trends and peak accident times. Geospatial analysis is conducted using mapping tools to pinpoint high-risk locations based on accident density, allowing policymakers to focus on accident-prone areas. 
+tatistical and graphical techniques are used to explore trends, distributions, and relationships between variables. Frequency distributions help identify common accident causes. Visualization tools like bar charts, line graphs, and histograms are employed to highlight patterns over time, accident hotspots, and high-risk conditions. Correlation analysis is conducted to assess relationships between variables such as weather conditions, road surface states, and accident severity.
 
-FINDINGS
+### Pattern and Trend Analysis
+Advanced analytical techniques are applied to detect recurring patterns in accident occurrences. Time series analysis is used to observe fluctuations in accident frequency over different periods, helping identify seasonal trends and peak accident times. Geospatial analysis is conducted using mapping tools to pinpoint high-risk locations based on accident density, allowing policymakers to focus on accident-prone areas. 
+
+## FINDINGS
 1.	High-risk spots: Saelo Paulo, Brazil has the highest number of accidents at 1,032 followed by New York, USA at 1,016. Lowest risk area is Berlin, Germany at 958, followed by Mumbai, India at 987.
 
 2.	Environmental and road factors: Dry Road contributes the highest percentage of accidents at 17.29%. Comparing road and weather conditions, there are more casualties when the road is wet, and weather is clear.
@@ -108,27 +114,41 @@ FINDINGS
 
 
 
-RECOMMENDATIONS 
-Targeted High-Risk Area Interventions
+## RECOMMENDATIONS 
+
+### Targeted High-Risk Area Interventions
 •	São Paulo and New York, with the highest accident rates, should implement stricter traffic enforcement, increased surveillance (e.g., AI-powered traffic cameras), and enhanced public awareness campaigns.
+
 •	Investing in smart traffic management systems and stricter penalties for violations can reduce accident occurrences.
  Enhancing Safety in Low-Risk Areas
+ 
 •	Berlin and Mumbai, with the lowest accident rates, can serve as models for effective road safety policies.
+
 •	Governments should study their infrastructure, driver behavior, and law enforcement measures to replicate best practices globally.
 Road Condition Awareness & Driver Education
+
 •	Since dry roads contribute the highest percentage of accidents (17.29%), awareness campaigns should emphasize the risks of overconfidence in dry conditions.
+
 •	Governments should introduce adaptive speed limits based on real-time road conditions to prevent over-speeding on dry roads.
 Weather-Specific Safety Measures
+
 •	Higher casualties occur when roads are wet, but weather is clear—suggesting drivers underestimate wet road risks. Governments should mandate enhanced traction control systems and improve road drainage in accident-prone areas.
+
 •	During foggy or rainy conditions, stricter speed regulations and increased visibility measures (e.g., reflective road markers, improved street lighting) should be enforced.
 Stronger Regulations on Drunk & Reckless Driving
+
 •	With 1.72k accidents due to drunk driving, stricter alcohol consumption laws, increased sobriety checkpoints, and harsher penalties are necessary.
+
 •	Governments should invest in public transportation alternatives and safe ride programs to reduce the need for impaired individuals to drive.
-Mitigating Speeding Risks in Adverse Weather
+
+### Mitigating Speeding Risks in Adverse Weather
 •	Reckless driving during fog and speeding in rainy conditions significantly increase casualties. Automated speed control systems, stricter penalties, and better road signage in high-risk zones can reduce fatalities.
+
 •	Encouraging adaptive vehicle technology such as automatic braking and collision avoidance systems can further enhance road safety.
-Data-Driven Policy Development
+
+### Data-Driven Policy Development
 •	Establishing global accident databases will help policymakers identify emerging trends and allocate resources efficiently.
+
 •	Collaboration between cities and countries through knowledge-sharing initiatives will promote successful safety strategies worldwide.
 
 
