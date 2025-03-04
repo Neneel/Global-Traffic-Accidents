@@ -13,6 +13,8 @@ This repository contains detailed information about the Global Traffic Accident 
 
 [Findings](Findings)
 
+[Recommendations](Recommendations)
+
 
 ## INTRODUCTION
 
@@ -55,26 +57,42 @@ A lack of comprehensive data analysis on accident causes, environmental conditio
 The dataset used in this study comprises detailed records of traffic accidents, including the following key attributes:
 
 •	Accident ID: A unique identifier for each accident report.
+
 •	Date: The date when the accident occurred (YYYY-MM-DD format).
+
 •	Time: The specific time of the accident (HH:MM format).
+
 •	Location: The city and country where the accident happened.
+
 •	Latitude & Longitude: GPS coordinates pinpointing the exact location of the accident.
+
 •	Weather Condition: The weather at the time of the accident (e.g., Clear, Rain, Fog, Snow).
+
 •	Road Condition: The state of the road surface at the time of the accident (e.g., Dry, Wet, Icy, Snowy).
+
 •	Vehicles Involved: The number of vehicles affected in the accident.
+
 •	Casualties: The total number of injuries and fatalities caused by the accident.
+
 •	Cause: The primary reason for the accident (e.g., Speeding, Drunk Driving, Distracted Driving).
 
-Tools used
+
+### Tools used
+
 Data cleaning: Microsoft Excel and PowerBI
 Data analysis: PowerBI
 Visualization: PowerBI
 
-METHODOLOGY
+## METHODOLOGY
+
 Data Collection and Cleaning:  The dataset was downloaded from Kaggle.com and the following measures were taken to clean the dataset.
+
 •	Reassigning Unique Identifiers: New Accident ID were generated and re-assigned to make it unique and organized.
+
 •	Handling Duplicates: No duplicates were found.
+
 •	Data Type Conversion – Changed data from one type to befitted type (e.g Date, Time columns).
+
 •	Normalization – Ensuring consistency in data types (e.g., all dates in DD-MM-YYYY format).
 
 Exploratory Data Analysis (EDA): Statistical and graphical techniques are used to explore trends, distributions, and relationships between variables. Frequency distributions help identify common accident causes. Visualization tools like bar charts, line graphs, and histograms are employed to highlight patterns over time, accident hotspots, and high-risk conditions. Correlation analysis is conducted to assess relationships between variables such as weather conditions, road surface states, and accident severity.
