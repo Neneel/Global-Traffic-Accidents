@@ -105,6 +105,13 @@ tatistical and graphical techniques are used to explore trends, distributions, a
 ### Pattern and Trend Analysis
 Advanced analytical techniques are applied to detect recurring patterns in accident occurrences. Time series analysis is used to observe fluctuations in accident frequency over different periods, helping identify seasonal trends and peak accident times. Geospatial analysis is conducted using mapping tools to pinpoint high-risk locations based on accident density, allowing policymakers to focus on accident-prone areas. 
 
+## VISUALIZATONS
+![image (2)](https://github.com/user-attachments/assets/0570f1a4-61d8-451c-ac1f-4b30f018b90d)
+![image (3)](https://github.com/user-attachments/assets/f16ea14b-f9ee-4001-9483-530c27e8074f)
+![Global Traffic Accident - PatternFinders team_page-0005](https://github.com/user-attachments/assets/8673270c-b1db-47a9-b2e2-dce0fb6b3ebf)
+
+
+
 ## FINDINGS
 1.	High-risk spots: Saelo Paulo, Brazil has the highest number of accidents at 1,032 followed by New York, USA at 1,016. Lowest risk area is Berlin, Germany at 958, followed by Mumbai, India at 987.
 
